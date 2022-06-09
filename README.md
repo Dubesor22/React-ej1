@@ -1,3 +1,13 @@
+# React-ej1
+
+Autor: David Ubeda Soriano.
+
+ejercicios de react The bridge academy 
+
+[link a los ejercicios](https://docs.google.com/document/d/1Cs2s-tFPd06gqFQGZPLGk41KooGBK6NwHxREnetlShE/edit#)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
