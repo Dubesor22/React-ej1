@@ -8,6 +8,7 @@ const Person = (props) => {
             <span>{props.age} </span>
             <br/>
             
+
         </div>
     );
 }

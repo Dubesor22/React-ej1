@@ -10,7 +10,7 @@ function App() {
       <Person name="tianfan" surname="Shan" age="22"/>
       <Person name="Juan" surname="Perez" age="23"/>
       <br/>
-
+      <br/>
       <PersonClass name="David" surname="Ubeda" age="25"/>
       <PersonClass name="tianfan" surname="Shan" age="22"/>
       <PersonClass name="Juan" surname="Perez" age="23"/>
